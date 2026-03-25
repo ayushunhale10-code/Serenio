@@ -1,4 +1,7 @@
 # Serenio — Your Private Mental Wellness Companion
+## 🌐 Live Demo
+
+👉 https://serenio-eosin.vercel.app
 
 A voice-first mental health companion web app built with React + TypeScript, powered by **on-device AI** using the [`@runanywhere/web`](https://www.npmjs.com/package/@runanywhere/web) SDK. All AI inference runs locally in the browser via WebAssembly — no server, no API key, 100% private.
 
