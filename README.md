@@ -17,6 +17,31 @@ A voice-first mental health companion web app built with React + TypeScript, pow
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Home
+![Home](public/assets/screenshots/home.png)
+
+### 💬 Chat
+![Chat](public/assets/screenshots/chat.png)
+
+### 🧠 Venting Space
+![Venting](public/assets/screenshots/venting.png)
+
+### 🌿 Wellness Hub
+![Wellness](public/assets/screenshots/wellness.png)
+
+### 🎯 Goals Hub
+![Goals](public/assets/screenshots/goals.png)
+
+### 😊 Mood Tracker
+![Mood](public/assets/screenshots/mood.png)
+
+### 📜 History
+![History](public/assets/screenshots/history.png)
+
+---
+
 ## 🔒 Privacy by Design
 
 - **Zero cloud costs** — all inference runs on your device
@@ -47,7 +72,9 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173). Models download on first use and are cached in the browser's Origin Private File System (OPFS) — subsequent visits load instantly.
+Run locally, then open:
+
+http://localhost:5173. Models download on first use and are cached in the browser's Origin Private File System (OPFS) — subsequent visits load instantly.
 
 ---
 
@@ -156,9 +183,23 @@ Cross-Origin-Embedder-Policy: credentialless
 
 ---
 
-## 👥 Team
+## 👨‍💻 My Contributions
 
-Built at HackXtreme with help of my Teammates Ayush and Somesh using the RunAnywhere SDK for fully on-device AI.
+- Led and developed the complete frontend architecture  
+- Designed and implemented full UI/UX across all major features  
+- Built reusable and scalable React components  
+- Integrated on-device AI pipelines (STT, LLM, TTS) with frontend  
+- Developed core features like Voice, Chat, Mood tracking, and History  
+- Improved responsiveness and overall user experience  
+- Contributed to feature planning and product design  
+
+---
+
+## 🤝 Acknowledgment
+
+This project was originally developed collaboratively during a hackathon.
+
+This repository is a personal reconstruction created to showcase my contributions and work.
 
 ---
 
