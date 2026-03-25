@@ -22,24 +22,23 @@ A voice-first mental health companion web app built with React + TypeScript, pow
 ### 🏠 Home
 <img width="1918" height="880" alt="home" src="https://github.com/user-attachments/assets/b48537d8-0618-4ae9-98c2-bd89609b6769" />
 
-
 ### 💬 Chat
-![Chat](assets/screenshots/chat.png)
+<img width="1916" height="871" alt="chat" src="https://github.com/user-attachments/assets/613de5ca-09d6-4b8c-8ab3-17670ea4f53a" />
 
 ### 🧠 Venting Space
-![Venting](assets/screenshots/venting.png)
+<img width="1917" height="877" alt="venting" src="https://github.com/user-attachments/assets/7b05b1e6-8091-46ea-9a11-d0101d2f1806" />
 
 ### 🌿 Wellness Hub
-![Wellness](assets/screenshots/wellness.png)
+<img width="1911" height="873" alt="wellness" src="https://github.com/user-attachments/assets/ebc01dbf-ebc3-4250-8089-9b1875e39290" />
 
 ### 🎯 Goals Hub
-![Goals](assets/screenshots/goals.png)
+<img width="1913" height="872" alt="goals" src="https://github.com/user-attachments/assets/3d17fb63-dc0e-4d90-8b58-0bfd56f46dce" />
 
 ### 😊 Mood Tracker
-![Mood](assets/screenshots/mood.png)
+<img width="1911" height="871" alt="mood" src="https://github.com/user-attachments/assets/61aa4160-581d-4178-ae1e-3487fa13b4f8" />
 
 ### 📜 History
-![History](assets/screenshots/history.png)
+<img width="1917" height="868" alt="history" src="https://github.com/user-attachments/assets/e0b92570-830b-4170-ad6e-871721ffa7f8" />
 
 ---
 
