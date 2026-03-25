@@ -20,7 +20,8 @@ A voice-first mental health companion web app built with React + TypeScript, pow
 ## 📸 Screenshots
 
 ### 🏠 Home
-"C:\Users\ayush\Downloads\Serenio\Serenio\assets\screenshots\home.png"
+<img width="1918" height="880" alt="home" src="https://github.com/user-attachments/assets/b48537d8-0618-4ae9-98c2-bd89609b6769" />
+
 
 ### 💬 Chat
 ![Chat](assets/screenshots/chat.png)
