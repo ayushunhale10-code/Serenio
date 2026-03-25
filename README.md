@@ -20,25 +20,25 @@ A voice-first mental health companion web app built with React + TypeScript, pow
 ## 📸 Screenshots
 
 ### 🏠 Home
-![Home](public/assets/screenshots/home.png)
+![Home](assets/screenshots/home.png)
 
 ### 💬 Chat
-![Chat](public/assets/screenshots/chat.png)
+![Chat](assets/screenshots/chat.png)
 
 ### 🧠 Venting Space
-![Venting](public/assets/screenshots/venting.png)
+![Venting](assets/screenshots/venting.png)
 
 ### 🌿 Wellness Hub
-![Wellness](public/assets/screenshots/wellness.png)
+![Wellness](assets/screenshots/wellness.png)
 
 ### 🎯 Goals Hub
-![Goals](public/assets/screenshots/goals.png)
+![Goals](assets/screenshots/goals.png)
 
 ### 😊 Mood Tracker
-![Mood](public/assets/screenshots/mood.png)
+![Mood](assets/screenshots/mood.png)
 
 ### 📜 History
-![History](public/assets/screenshots/history.png)
+![History](assets/screenshots/history.png)
 
 ---
 
